@@ -29,7 +29,7 @@
   <a href="mailto:deepanshhi13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
- <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshhi" alt="deepanshhi" /> </p> -->
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshi-sri13" alt="deepanshi-sri13" /> </p> -->
 </p>
 
 ## Languages and Tools:
@@ -54,8 +54,8 @@
 </p>
 <br>
 
-<p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshhi&layout=compact" alt="deepanshhi" /></p>
-<!-- <p > <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshhi&show_icons=true&hide_border=true"/> </p> -->
+<p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshi-sri13&layout=compact" alt="deepanshi-sri13" /></p>
+<!-- <p > <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=deepanshi-sri13&show_icons=true&hide_border=true"/> </p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=TTThank+you+for+visiting+my+profile!!" alt="Typing SVG">
