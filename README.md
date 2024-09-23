@@ -77,6 +77,11 @@
 </p>
 
 
+<!-- <p align="left">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=deepanshi-sri13&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>  -->
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=TTThank+you+for+visiting+my+profile!!" alt="Typing SVG">
